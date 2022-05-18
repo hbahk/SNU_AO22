@@ -2,6 +2,7 @@
 *mod.fits
 *red.fits
 tmp
+.thumbs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
